@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme -->
+    <color name="lightPrimary">@color/invisible</color>
+    <color name="lightPrimaryDark">@color/invisible</color>
+
+    <!-- Dark Theme -->
+    <color name="darkPrimary">@color/invisible</color>
+    <color name="darkPrimaryDark">@color/invisible</color>
+    <color name="darkAccent">@color/invisible</color>
+
+
+    <!-- Basic colors -->
+    <color name="invisible">#00000000</color>
+    <color name="transparent">#80000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <!-- Google colors -->
+    <color name="google_blue">#4285F4</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+    <color name="google_red">#EA4335</color>
+
+    <!-- Flat ui colors -->
+    <color name="turquoise">#1abc9c</color>
+    <color name="emerland">#2ecc71</color>
+    <color name="nephritis">#27ae60</color>
+    <color name="greensea">#16a085</color>
+    <color name="belizehole">#2980b9</color>
+    <color name="peterriver">#3498db</color>
+    <color name="amethyst">#9b59b6</color>
+    <color name="wisteria">#8e44ad</color>
+    <color name="pomegranate">#c0392b</color>
+    <color name="alizarin">#e74c3c</color>
+    <color name="pumkin">#d35400</color>
+    <color name="carrot">#e67e22</color>
+    <color name="orange">#f39c12</color>
+    <color name="sunflower">#f1c40f</color>
+    <color name="lightclouds">#f0f4f5</color>
+    <color name="clouds">#ecf0f1</color>
+    <color name="silver">#bdc3c7</color>
+    <color name="concrete">#95a5a6</color>
+    <color name="asbestos">#7f8c8d</color>
+    <color name="wetasphalt">#34495e</color>
+    <color name="midnightblue">#2c3e50</color>
+
+</resources>
