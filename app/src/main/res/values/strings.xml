@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Better Airpods</string>
+    <string name="app__full_name">Better Airpods Experience</string>
+    <string name="settings">Settings</string>
 </resources>

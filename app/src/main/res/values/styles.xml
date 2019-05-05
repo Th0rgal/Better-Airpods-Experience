@@ -3,14 +3,23 @@
     <!-- Base application theme -->
     <style name="LightAppTheme" parent="Theme.AppCompat.Light">
         <item name="android:windowLightStatusBar">true</item>
+        <item name="android:titleTextStyle">@style/LightAppTheme.ActionBar.TitleTextStyle</item>
+
         <item name="colorPrimary">@color/lightPrimary</item>
         <item name="colorPrimaryDark">@color/lightPrimaryDark</item>
         <item name="android:windowBackground">@color/white</item>
     </style>
 
+
+    <style name="LightAppTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/blackpearl</item>
+    </style>
+
     <!-- Dark application theme -->
     <style name="NightAppTheme" parent="Theme.AppCompat">
         <item name="android:windowLightStatusBar">false</item>
+        <item name="windowNoTitle">true</item>
+
         <item name="colorPrimary">@color/darkPrimary</item>
         <item name="colorPrimaryDark">@color/darkPrimaryDark</item>
         <item name="android:windowBackground">@color/black</item>
